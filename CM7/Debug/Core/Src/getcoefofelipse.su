@@ -1,0 +1,6 @@
+getcoefofelipse.c:32:6:leastSqaresElipse	72	static
+getcoefofelipse.c:174:6:getinverse	24	static
+getcoefofelipse.c:196:6:test1234	16	static
+getcoefofelipse.c:230:7:detrminant	152	static
+getcoefofelipse.c:272:6:cofactors	248	static
+getcoefofelipse.c:299:6:trans	136	static

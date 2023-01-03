@@ -1,0 +1,10 @@
+MatrixLibray.c:13:9:createNewMatrix	48	static
+MatrixLibray.c:48:9:normaliseMatrix	40	static
+MatrixLibray.c:64:9:ArraytoMatrix	40	static
+MatrixLibray.c:78:8:MatrixtoArray	32	static
+MatrixLibray.c:92:8:MatrixtoArrayB	32	static
+MatrixLibray.c:108:6:printArray	32	static
+MatrixLibray.c:124:9:MultiplyMatrix	40	static
+MatrixLibray.c:145:9:TransposeMatrix	40	static
+MatrixLibray.c:159:9:SquareMatrix	40	static
+MatrixLibray.c:164:9:NegitiveMatrix	32	static

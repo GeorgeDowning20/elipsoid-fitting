@@ -1,0 +1,15 @@
+MatrixStuff.c:12:6:printMatrix	32	static
+MatrixStuff.c:28:9:get_cubic	128	static
+MatrixStuff.c:68:9:ArrayElipseMatrix	32	static
+MatrixStuff.c:89:10:ArrayElipsoidMat	24	static
+MatrixStuff.c:116:10:generateElispoidData	120	static
+MatrixStuff.c:223:10:getElipsoicoeff	16	static
+MatrixStuff.c:230:9:elipsecoef	168	static
+MatrixStuff.c:269:9:EigenValues3x3	48	static
+MatrixStuff.c:298:9:quadraticSolveRoots	40	static
+MatrixStuff.c:308:9:EigenValues2x2	32	static
+MatrixStuff.c:320:9:GetEigenVelctors2x2	32	static
+MatrixStuff.c:363:6:centerElipse	464	static
+MatrixStuff.c:487:9:inverseMatrix	2528	static
+MatrixStuff.c:514:7:detrminant	376	static
+MatrixStuff.c:564:9:cofactors	1352	static
